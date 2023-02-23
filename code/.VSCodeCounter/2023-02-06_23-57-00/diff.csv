@@ -1,0 +1,9 @@
+"filename", "language", "assembly(DOS)", "comment", "blank", "total"
+"/Users/yangluchao/Documents/GitHub/asm/book/t6/FILLB.asm", "assembly(DOS)", 15, 5, 0, 20
+"/Users/yangluchao/Documents/GitHub/asm/book/t6/HTOASC3.asm", "assembly(DOS)", 21, 7, 5, 33
+"/Users/yangluchao/Documents/GitHub/asm/book/t6/STRCAT.asm", "assembly(DOS)", 39, 6, 0, 45
+"/Users/yangluchao/Documents/GitHub/asm/book/t6/STRCHR.asm", "assembly(DOS)", 34, 6, 0, 40
+"/Users/yangluchao/Documents/GitHub/asm/book/t6/STRSTR.asm", "assembly(DOS)", 71, 10, 2, 83
+"/Users/yangluchao/Documents/GitHub/asm/process/HTOASC2.asm", "assembly(DOS)", 8, 4, 0, 12
+"/Users/yangluchao/Documents/GitHub/asm/work_15/work_1.asm", "assembly(DOS)", 15, 3, 7, 25
+"Total", "-", 203, 41, 14, 258

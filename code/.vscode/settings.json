@@ -1,0 +1,26 @@
+{
+  "vscode-dosbox.command.dosboxX": "flatpak run com.dosbox_x.DOSBox-X",
+  "vscode-dosbox.dosbox.config": {
+    "SDL.output": "overlay",
+  },
+  "masmtasm.ASM.mode": "single file",
+  "masmtasm.ASM.actions": {
+    "TASM-com": {
+      "baseBundle": "<built-in>/TASM.jsdos",
+      "before": [
+        "set PATH=C:\\TASM"
+      ],
+      "run": [
+        "TASM ${file}",
+        "TLINK /t ${filename}",
+        "${filename}"
+      ],
+      "debug": [
+        "TASM /zi ${file}",
+        "TLINK /t/v/3 ${filename}.obj",
+        "TD ${filename}.exe"
+      ]
+    }
+  },
+  "masmtasm.ASM.assembler": "MASM"
+}
