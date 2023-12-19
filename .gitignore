@@ -48,3 +48,5 @@ NashornProfile.txt
 **/JTwork/**
 /.vscode/
 /.jcheck/
+code/.VSCodeCounter/
+.VSCodeCounter/
